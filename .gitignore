@@ -1,0 +1,5 @@
+.vercel
+.claude
+.DS_Store
+_source.html
+gate_build.mjs
