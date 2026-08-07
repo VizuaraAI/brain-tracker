@@ -6,5 +6,7 @@ gate_build.mjs
 build.mjs
 resources_data
 _serve.cjs
+gate_page.mjs
+report_source.html
 
 fig_assets
